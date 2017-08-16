@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Habit tracker app</string>
+
+    <string name="action_insert_dummy_data">Insert dummy data to testing</string>
+    <string name="editor_activity_title_new_user">Add a user</string>
+    <string name="action_delete_all_entries">Delete All Entries</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="category_steps">Steps taken </string>
+    <string name="hint_user_name">Enter your Name</string>
+    <string name="hint_distance">Distance walked</string>
+    <string name="hint_steps">Enter steps</string>
+    <string name="category_your_name">Your name</string>
+    <string name="category_distance">Distance</string>
+    <string name="distance_units">km</string>
+    <string name="steps" />
+</resources>

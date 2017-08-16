@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_delete_all_entries" type="id" />
+    <item name="action_insert_dummy_data" type="id" />
+    <item name="text_view_user" type="id" />
+    <item name="edit_your_name" type="id" />
+</resources>
